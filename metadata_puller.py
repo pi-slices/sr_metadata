@@ -20,7 +20,7 @@ import requests
 RPC_URL = ""
 
 CONTRACT_ADDRESS = "0xb932a70A57673d89f4acfFBE830E8ed7f75Fb9e0"
-START_TOKEN_ID = 39580 # first token id on this contract
+START_TOKEN_ID = 4435 # first token id on this contract
 END_TOKEN_ID = 39581
 
 if __name__ == '__main__':
