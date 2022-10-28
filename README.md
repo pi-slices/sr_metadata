@@ -24,6 +24,7 @@ All metadata was gathered from the 'tokenURI' field of SuperRare's ERC-721 contr
 - Ensure you have a copy of [`merged_json.json`](merged_json.json)
 - Run `python sr_analysis.py`
 - View stats in terminal output!
+- For an example output, view [`raw_script_output.txt`](raw_script_output.txt)
 
 #### Current statistics produced:
 - Average & median filesize, and count of each token organized by mimeType.
