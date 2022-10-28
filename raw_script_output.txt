@@ -1,0 +1,96 @@
+Data for Token ID Range: 8584 - 39581
+----------------------------------------
+mimeType          | avg size | count        | median size
+-------------------------------------------------------
+image/png         | 14.38 MB |  6693 tokens | 9.23 MB
+image/jpeg        | 9.77  MB |  9526 tokens | 5.76 MB
+image/gif         | 19.13 MB |  3892 tokens | 14.17 MB
+image/apng        | 35.75 MB |     9 tokens | 38.87 MB
+video/mp4         | 29.58 MB | 10313 tokens | 31.19 MB
+video/webm        | 31.55 MB |    35 tokens | 38.74 MB
+model/gltf-binary | 21.65 MB |   379 tokens | 19.51 MB
+image/svg+xml     | 0.99  MB |    53 tokens | 0.01 MB
+                  | 28.80 MB |     4 tokens | 34.72 MB
+----------------------------------------
+Range of video/mp4 filesizes:
+0 - 10 MB, 1587 tokens
+10 - 20 MB, 1856 tokens
+20 - 30 MB, 1564 tokens
+30 - 40 MB, 1410 tokens
+40 - 50 MB, 3896 tokens
+----------------------------------------
+Trend of >=40 MB mp4 files over time:
+IDs: 8584 - 13000: 273 tokens
+IDs: 13001 - 18000: 577 tokens
+IDs: 18001 - 23000: 731 tokens
+IDs: 23001 - 28000: 833 tokens
+IDs: 28001 - 33000: 869 tokens
+IDs: 33001 - 39581: 613 tokens
+----------------------------------------
+Largest File Size: 122.00 MB, Token ID: 36344 - The Answer by anyma
+----------------------------------------
+Smallest File Size: 123 Bytes, Token ID: 12083 - Red by Pak
+----------------------------------------
+Most common dimensions:
+1080x1080: 1423
+1920x1080: 1245
+2000x2000: 811
+2048x2048: 676
+1920x1920: 563
+1080x1350: 448
+3000x3000: 444
+1080x1920: 384
+4000x4000: 374
+3840x2160: 365
+----------------------------------------
+Most common tags:
+surreal: 5785
+3d: 5501
+animation: 5298
+abstract: 4543
+illustration: 3820
+surrealism: 3205
+3D: 3025
+art: 2954
+3dart: 2875
+superrare: 2542
+----------------------------------------
+Most common name:
+Genetic Algorithm: 53
+Generative: 49
+I, Me & Myself: 35
+MEGA DROP CORP: 31
+Her Secret Desire: 16
+Untitled: 14
+Ascension: 13
+Solitude: 11
+Bloom: 11
+Her Submission: 10
+----------------------------------------
+Most common createdBy:
+Vart: 315
+Ambiguous: 245
+Gal Barkan - Galaxy Eggs Genesis: 240
+Michael Jordan: 231
+miss al simpson: 212
+Brandon Walsh: 187
+Dick Gillman: 184
+Norman Harman: 168
+Nacho Frades: 167
+@suryanto: 166
+----------------------------------------
+Most common yearCreated:
+2021: 10912
+2020: 9594
+2022: 8038
+2019: 946
+2018: 508
+2017: 260
+2016: 212
+2015: 145
+2014: 47
+2013: 27
+----------------------------------------
+Total Media Filesize: 565.00 GB
+Overall Average Filesize: 18.72 MB
+----------------------------------------
