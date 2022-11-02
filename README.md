@@ -3,6 +3,9 @@
 This project was created to produce statistics from the metadata of SUPR v2 tokens from [SuperRare](superrare.com).  
 All metadata was gathered from the 'tokenURI' field of SuperRare's ERC-721 contract found at [`0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0`](https://etherscan.io/token/0xb932a70a57673d89f4acffbe830e8ed7f75fb9e0#readContract#F14).
 
+The output of this project was formatted into a series of charts, and released at [pislices.art/sr_analysis](https://pislices.art/sr_analysis).
+
+---
 #### Downloading Metadata
 - Install `web3` with `pip install web3`
 - Get an RPC node URL from infura, alchemy, etc
@@ -25,6 +28,8 @@ All metadata was gathered from the 'tokenURI' field of SuperRare's ERC-721 contr
 - Run `python sr_analysis.py`
 - View stats in terminal output!
 - For an example output, view [`raw_script_output.txt`](raw_script_output.txt)
+
+---
 
 #### Current statistics produced:
 - Average & median filesize, and count of each token organized by mimeType.
